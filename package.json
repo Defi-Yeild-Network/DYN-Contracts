@@ -1,5 +1,5 @@
 {
-  "name": "@dynfinance/dyn-contracts",
+  "name": "@defi-yeild-network/dyn-contracts",
   "version": "1.0.0",
   "license": "MIT",
   "description": "Core contracts for the DYN network",
@@ -7,7 +7,7 @@
     "contracts",
     "build"
   ],
-  "repository": "https://github.com/dynfinance/dyn-contracts",
+  "repository": "https://github.com/defi-yeild-network/dyn-contracts",
   "keywords": [
     "uniswap",
     "dyn",
